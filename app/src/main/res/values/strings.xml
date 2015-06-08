@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySampleApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="gps_button">Get GPS Data</string>
+</resources>
